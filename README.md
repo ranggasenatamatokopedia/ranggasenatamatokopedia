@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rangga Senatama Putra</h1>
-
+<p align="center">
 <img  align="middle" src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes.jpg." width="600" height="600" />
-
+</p>
 <!--
 **ranggasenatamatokopedia/ranggasenatamatokopedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
