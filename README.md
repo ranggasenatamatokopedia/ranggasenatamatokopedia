@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rangga Senatama Putra</h1>
 <p align="center">
-<img  align="middle" src="https://www.memecreator.org/m/the-cat-im-ok.webp" width="600" height="600" />
+<img  align="middle" src="https://www.memecreator.org/m/the-cat-im-ok.webp" width="800" height="600" />
 </p>
 <!--
 **ranggasenatamatokopedia/ranggasenatamatokopedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
